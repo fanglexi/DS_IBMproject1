@@ -10,7 +10,8 @@ entitles the owner of the stock to a proportion of the corporation's assets and 
 - An investor can buy a stock and sell it later. If the stock price increases, the investor profits, If it decreases,
 the investor with incur a loss.  Determining the stock price is complex; it depends on the number of outstanding shares, the size of the company's future profits, and much more. People trade stocks throughout the day. The stock ticker is a report of the price of a certain stock, updated continuously throughout the trading session by the various stock market exchanges. In this lab, you will use the  y-finance API to obtain the stock ticker and extract information about the stock. You will then be asked questions about your results.  
 
+- Dividends are the distribution of a companys profits to shareholders.
 
 ##### Extract historical stock data using yfinance
 ##### Determine any suspicious stock activity
-##### Dividends are the distribution of a companys profits to shareholders.
+
