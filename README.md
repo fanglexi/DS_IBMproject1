@@ -13,3 +13,4 @@ the investor with incur a loss.  Determining the stock price is complex; it depe
 
 ##### Extract historical stock data using yfinance
 ##### Determine any suspicious stock activity
+##### Dividends are the distribution of a companys profits to shareholders.
